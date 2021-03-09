@@ -2,7 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 99fda4f (created project with creat-react-app and added files for homepage)
 
 ReactDOM.render(
   <React.StrictMode>
